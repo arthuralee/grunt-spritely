@@ -1,7 +1,7 @@
 {
   "name": "grunt-spritely-spritesmith",
   "description": "Grunt library for generating sprites sheets.  Forked from grunt-spritesmith and caters to Grunt 0.4.",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "homepage": "https://github.com/pinterest-web/grunt-spritely",
   "author": {
     "name": "Pinterest Web",
