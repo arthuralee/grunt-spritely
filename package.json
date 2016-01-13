@@ -1,55 +1,26 @@
 {
-  "name": "grunt-spritely",
+  "name": "grunt-spritely-spritesmith",
   "description": "Grunt library for generating sprites sheets.  Forked from grunt-spritesmith and caters to Grunt 0.4.",
   "version": "0.4.3",
-  "homepage": "https://github.com/chrisdanford/grunt-spritely",
+  "homepage": "https://github.com/pinterest-web/grunt-spritely",
   "author": {
-    "name": "Chris Danford",
-    "email": "chrisdanford@gmail.com",
-    "url": "http://www.chrisdanford.com/"
+    "name": "Pinterest Web",
+    "email": "arthur@pinterest.com",
+    "url": "http://engineering.pinterest.com/"
   },
   "contributors": [
-    {
-      "name": "Todd Wolfson",
-      "email": "todd@twolfson.com",
-      "url": "http://twolfson.com/"
-    },
-    {
-      "name": "dpolivy"
-    },
-    {
-      "name": "pdehaan",
-      "url": "http://about.me/peterdehaan"
-    },
-    {
-      "name": "MoOx",
-      "email": "github@moox.io",
-      "url": "http://moox.io/"
-    },
-    {
-      "name": "jasonsandmeyer",
-      "url": "http://jasonsandmeyer.com"
-    },
-    {
-      "name": "scanieso",
-      "email": "scanieso@gmail.com"
-    },
-    {
-      "name": "STuFF",
-      "email": "nchalleil@gmail.com"
-    }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisdanford/grunt-spritely.git"
+    "url": "git://github.com/pinterest-web/grunt-spritely.git"
   },
   "bugs": {
-    "url": "https://github.com/chrisdanford/grunt-spritely/issues"
+    "url": "https://github.com/pinterest-web/grunt-spritely/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/chrisdanford/grunt-spritely/blob/master/LICENSE-MIT"
+      "url": "https://github.com/pinterest-web/grunt-spritely/blob/master/LICENSE-MIT"
     }
   ],
   "main": "tasks/grunt-spritesmith.js",
